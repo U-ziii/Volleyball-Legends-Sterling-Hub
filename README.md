@@ -2,7 +2,7 @@
 
 Smash the court with **Sterling Hub**, the all-in-one **keyless script** for *Volleyball Legends*. With spike power control, movement modifiers, auto-farming, and match manipulation—this hub gives you **total control** over every match. Whether you're floating mid-air or extending hitboxes, domination is just one click away.
 
-![script-image](image-link-placeholder)
+![script-image](https://github.com/U-ziii/Volleyball-Legends-Sterling-Hub/blob/main/Volleyball%20Legends%20-%20Sterling%20Hub%20%20.png)
 
 ---
 
